@@ -157,6 +157,8 @@ The **Databricks Dashboard** includes:
 
 ## 📂 Project Structure
 
+**AWS directory and any code directories replaced with "x" for security"**
+
 ```
 consolidated_pipeline/
 │
